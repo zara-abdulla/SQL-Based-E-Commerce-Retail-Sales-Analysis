@@ -23,6 +23,12 @@ The project findings and business insights are summarized in a presentation.
 
 ---
 
+## 🧠 SQL Queries  
+
+All analytical SQL queries are available in the script below:
+
+- [View SQL File](sql_queries/Sales_Project.sql)
+
 ## 🗂️ Database Schema  
 
 ### **CUSTOMERS**
@@ -133,7 +139,7 @@ SQL results were exported to Excel and analyzed using Pivot Tables and charts:
 
 
 ## 🚀 Key Insights 
- **July, August, and September** recorded the highest sales volume and order counts.  
+ - **July, August, and September** recorded the highest sales volume and order counts.  
 - Sales and order trends move in the same direction, indicating strong demand-driven purchasing behavior.  
 - A small group of customers generates a disproportionate share of total orders, confirming the presence of high-value customers.  
 - **Home** and **Toys** categories are among the top revenue drivers.  

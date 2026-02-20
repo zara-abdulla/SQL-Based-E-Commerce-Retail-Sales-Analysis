@@ -8,11 +8,12 @@ The goal is to explore customer behavior, product performance, revenue trends, d
 
 ---
 
-##   Presentation (PDF) 
+## 🔗 Files & Resources
+- 📽️ Presentation (PDF): [View Presentation](presentation/Sales_Presentation.pdf)
+- 🧾 Full Analysis SQL Script: [View SQL File](sql_queries/Sales_Project.sql)
+- 📂 Dataset: [View dataset](/data/)  
 
-The project findings and business insights are summarized in a presentation.
-
-- 📽️ Presentation File: [View PDF](presentation/Sales_Presentation.pdf)  
+---
 
 ## 🎯 Objectives  
 - Analyze e-commerce sales data using SQL  
@@ -23,11 +24,6 @@ The project findings and business insights are summarized in a presentation.
 
 ---
 
-## 🧠 SQL Queries  
-
-All analytical SQL queries are available in the script below:
-
-- [View SQL File](sql_queries/Sales_Project.sql)
 
 ## 🗂️ Database Schema  
 
@@ -110,6 +106,7 @@ All analytical SQL queries are available in the script below:
 - Sales share by customer age groups  
 - Year-over-year sales growth (2023 vs 2024)  
 
+
 ---
 
 ## 📊 Excel Visualization  
@@ -148,8 +145,8 @@ SQL results were exported to Excel and analyzed using Pivot Tables and charts:
 - **Card payments** represent 31% of total orders.  
 - The overall **return rate is 17.6%**, which indicates a moderate level of post-purchase dissatisfaction or logistics issues.  
 
----
 
+---
 ## 🛠️ Tools & Technologies  
 - **SQL (Oracle SQL Developer)**  
 - **Microsoft Excel (Pivot Tables & Charts)**  

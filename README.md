@@ -100,7 +100,32 @@ The goal is to explore customer behavior, product performance, revenue trends, d
 ## 📊 Excel Visualization  
 SQL results were exported to Excel and analyzed using Pivot Tables and charts:
 
-- Monthly sales trend  
-- Top 5 products and customers  
-- Return rate visualization  
-- Payment method distribution
+#### Monthly sales trend 
+-  [Monthly sales query](/sql_queries/query_1.sql) 
+- 📊 Chart: ![](/images/image_2.png)  
+
+#### Top 5 products and customers 
+ - [top 5 product query](/sql_queries/query_2.sql) 
+- [top 5 customer query](/sql_queries/query_3.sql) 
+
+- 📊 Chart 1: ![](/images/image_3.png)  
+- 📊 Chart 2: ![](/images/image_4.png)  
+
+
+#### Return rate visualization  
+-  [Return rate query](/sql_queries/query_4.sql) 
+- 📊 Chart: ![](/images/image_5.png)  
+
+#### Payment method distribution
+-  [Payment method query](/sql_queries/query_5.sql) 
+- 📊 Chart: ![](/images/image_6.png) 
+
+
+
+## 🚀 Key Insights 
+
+
+## 🛠️ Tools & Technologies  
+- **SQL (Oracle SQL Developer)**  
+- **Microsoft Excel (Pivot Tables & Charts)**  
+- **Microsoft PowerPoint**  

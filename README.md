@@ -1,10 +1,18 @@
 # SQL-Based E-Commerce Retail Sales Analysis
 
+![](/images/sales_project.png) 
+
 ## 📌 Project Overview  
 This project focuses on analyzing e-commerce retail sales data using **Oracle SQL**, with results visualized in **Excel** and presented in **PowerPoint**.  
 The goal is to explore customer behavior, product performance, revenue trends, discounts, and return patterns to generate actionable business insights.
 
 ---
+
+##   Presentation (PDF) 
+
+The project findings and business insights are summarized in a presentation.
+
+- 📽️ Presentation File: [View PDF](presentation/Sales_Presentation.pdf)  
 
 ## 🎯 Objectives  
 - Analyze e-commerce sales data using SQL  
@@ -61,6 +69,7 @@ The goal is to explore customer behavior, product performance, revenue trends, d
 | product_id | Product ID |
 | return_date | Return date |
 | reason | Return reason |
+
 
 ---
 
@@ -120,10 +129,20 @@ SQL results were exported to Excel and analyzed using Pivot Tables and charts:
 -  [Payment method query](/sql_queries/query_5.sql) 
 - 📊 Chart: ![](/images/image_6.png) 
 
+---
 
 
 ## 🚀 Key Insights 
+ **July, August, and September** recorded the highest sales volume and order counts.  
+- Sales and order trends move in the same direction, indicating strong demand-driven purchasing behavior.  
+- A small group of customers generates a disproportionate share of total orders, confirming the presence of high-value customers.  
+- **Home** and **Toys** categories are among the top revenue drivers.  
+- **Cash** is the most frequently used payment method (35%).  
+- **Bank transfer** accounts for 34% of payments.  
+- **Card payments** represent 31% of total orders.  
+- The overall **return rate is 17.6%**, which indicates a moderate level of post-purchase dissatisfaction or logistics issues.  
 
+---
 
 ## 🛠️ Tools & Technologies  
 - **SQL (Oracle SQL Developer)**  
